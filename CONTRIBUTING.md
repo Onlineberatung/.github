@@ -1,21 +1,21 @@
 # Contribution Guideline
 
 ## What do I need to know to help?
-If you are looking to help to with a code contribution our project uses multiple technologies listed below. If you don't feel ready to make a code contribution yet, no problem! You can also check out documentation issues. Or even create own issues.
+If you don't feel ready to make a code contribution yet, no problem! You can also check out documentation issues. Or even create own issues.
 
-If you are interested in making a code contribution and would like to learn more about the technologies that we use, check out the list below:
+If you are interested in making a code contribution and would like to learn more about the technologies that we use check out the list below:
 
 * [Java](https://openjdk.java.net/)
 * [Docker](https://docs.docker.com/)
 * [Maven](https://maven.apache.org/guides/index.html)
-* [SpringBoot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
 * [Swagger](https://swagger.io/)
 * [Rocketchat](https://docs.rocket.chat/)
 * [MongoDB](https://docs.mongodb.com/) with [Nosqlclient](https://www.nosqlclient.com/docs/user_manual.html)
 * [OpenLDAP](https://www.openldap.org/)
 * [Keycloak](https://www.keycloak.org/documentation)
 * [MariaDB](https://mariadb.com/kb/en/documentation/) with [Adminer](https://www.adminer.org/en/)
-* [NGinx](https://docs.nginx.com/)
+* [nginx](https://docs.nginx.com/)
 * [HTML](https://developer.mozilla.org/de/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/de/docs/Web/CSS) with [Sass](https://sass-lang.com/documentation)
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript)
@@ -23,7 +23,7 @@ If you are interested in making a code contribution and would like to learn more
 * [React](https://reactjs.org/)
 
 ## How do I make a contribution?
-Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
+Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown:
 
 1. Find an issue that you are interested in addressing or a feature that you would like to add.
 2. Fork the repository associated with the issue to your local GitHub organization. This means that you will have a copy of the repository under your-GitHub-username/repository-name.
