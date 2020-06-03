@@ -21,6 +21,7 @@ If you are interested in making a code contribution and would like to learn more
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript)
 * [Typescript](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 * [React](https://reactjs.org/)
+* [Biotope](https://boilerplate.biotope.sh/)
 
 ## How do I make a contribution?
 Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown:
